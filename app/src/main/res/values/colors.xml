@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kyronix / KIG Brand -->
+    <color name="kig_navy">#0D1B2A</color>
+    <color name="kig_blue">#1565C0</color>
+    <color name="kig_cyan">#00ACC1</color>
+
+    <!-- Material Design 3 tokens (Kyronix palette) -->
+    <color name="md_primary">#1565C0</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_surface">#FFFFFF</color>
+    <color name="md_surface_variant">#E8EDF5</color>
+    <color name="md_on_surface">#1A1A2E</color>
+    <color name="md_on_surface_variant">#55557A</color>
+    <color name="md_background">#F4F6FA</color>
+    <color name="md_outline">#C0C8D4</color>
+</resources>
